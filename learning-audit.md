@@ -1,15 +1,15 @@
-On-boarding
+# On-boarding
 - Git/github (ORANGE)
 - AI (GREEN)
 - AGILE (GREEN)
 
-Software
+# Software
 - Javascript (GREEN)
 - Objects, Arrays (GREEN)
 - Debugging (GREEN)
 - Functions (GREEN)
 
-Frontend
+# Frontend
 - Semantic HTML and Basic of CSS Layouts (ORANGE)
 - DOM selectors (ORANGE)
 - Button click and Form Submit (GREEN)
@@ -17,7 +17,7 @@ Frontend
 - Async JavaScript (GREEN)
 - Async/Await (GREEN)
 
-Backend
+# Backend
 - NODE (GREEN)
 - IMPORT/EXPORT (GREEN)
 - RESTful API (GREEN)
@@ -25,7 +25,7 @@ Backend
 - Express-validator (RED)
   1. Didn't get round to looking at this in the Hackathon. My mentor mentioned it so I want to research it and try to implement it in the DELETE part for checking an id has been included as a path parameter. Plan: read documentation online, add to existing project and test with Postman, use Co-Pilot to explain/help
 
-Database
+# Database
 - SQL (SELECT, INSERT, UPDATE, DELETE) (GREEN)
 - NULL, ALIAS (AS) (GREEN)
 - FROM, WHEN, ORDER BY, RETURNING (GREEN)
